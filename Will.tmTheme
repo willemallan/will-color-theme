@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Domenico Carbotta</string>
+	<string>Willem Allan</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>divider</key>
@@ -16,7 +16,7 @@
 		<string>#0C1021</string>
 	</dict>
 	<key>name</key>
-	<string>Blackboard</string>
+	<string>Will</string>
 	<key>semanticClass</key>
 	<string>theme.dark.blackboard</string>
 	<key>settings</key>
