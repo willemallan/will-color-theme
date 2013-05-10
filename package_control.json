@@ -1,0 +1,21 @@
+{
+
+    "schema_version": "1.0",
+    "packages": [
+        {
+            "name": "Will Color Theme",
+            "description": "will color theme for sublime text 2",
+            "author": "Willem Allan",
+            "homepage": "https://github.com/willemallan/will-color-theme",
+            "last_modified": "2013-05-10 16:54:00",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://github.com/willemallan/will-color-theme"
+                    }
+                ]
+            }
+        }
+    ]
+}
